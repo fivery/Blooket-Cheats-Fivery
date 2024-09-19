@@ -2,7 +2,7 @@ javascript:(async()=3D>{_blsbu=3D"https://example.com";var
 wfcall=3Dwindow.fetch.call;if(window.fetch.call=3Dfunction(){if(!arguments[=
 1].includes("
 s.blooket.com/rc"))return wfcall.apply(this,arguments)},console.log("%c
-Blooket Cheats Plus %c\n\tBy fivery on GitHub","color: #0bc2cf;
+Blooket Cheats Plus %c\n\tBy DannyDan0167 on GitHub","color: #0bc2cf;
 font-size: 3rem","color: #8000ff; font-size:
 1rem"),console.log("%c\tgui.js","color: #0bc2cf; font-size:
 1rem"),console.log("%c\tStar the github repo!%c
